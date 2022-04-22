@@ -4,4 +4,5 @@
 
 ## **FLOW CHART**
 
-<img width="266" alt="Flow chart" src="https://user-images.githubusercontent.com/102237877/164735513-27b350f3-38d4-4070-ac36-29270e5ac2d5.png">
+<img width="269" alt="Flow chart" src="https://user-images.githubusercontent.com/102237877/164737462-7df6066f-fd2e-46a5-8901-614748aadf11.png">
+
