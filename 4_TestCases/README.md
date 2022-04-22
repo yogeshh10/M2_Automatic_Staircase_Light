@@ -1,4 +1,4 @@
-**Test Pan**
+**Test Plan**
 
 | TEST ID  | Test case objective  | Input data  | Actual data  |
 | -------- | -------------------- | ----------- | ------------ |
