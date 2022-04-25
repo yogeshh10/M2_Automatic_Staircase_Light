@@ -70,7 +70,8 @@ The automatic staircase lighting system is a lighting control system where the l
 
 **CIRCUIT DIAGRAM**
 
-<img width="272" alt="Automatic staircase light" src="https://user-images.githubusercontent.com/102237877/165036847-abd9d1c9-315a-4179-a105-062691ef0070.png">
+<img width="315" alt="Automatic staircase light" src="https://user-images.githubusercontent.com/102237877/165038285-6c402c57-6948-41bf-b821-8ef2e5763a14.png">
+
 
 
 
