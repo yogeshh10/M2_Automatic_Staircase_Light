@@ -60,6 +60,14 @@ The automatic staircase lighting system is a lighting control system where the l
 
 <img width="269" alt="Flow chart" src="https://user-images.githubusercontent.com/102237877/164737462-7df6066f-fd2e-46a5-8901-614748aadf11.png">
 
+**Test Plan**
+
+| TEST ID  | Test case objective  | Input data  | Actual data  |
+| -------- | -------------------- | ----------- | ------------ |
+| TC_1  | Object detection  | Object  | Detected/Not detected  |
+| TC_2  | If the object detects | Detected input of the sensor | LED ON  |
+| TC_3  | If the object doesn't detects  | No input to the sensor | LED OFF |
+
 
 
 
