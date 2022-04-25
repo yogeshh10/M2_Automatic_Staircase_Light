@@ -68,6 +68,10 @@ The automatic staircase lighting system is a lighting control system where the l
 | TC_2  | If the object detects | Detected input of the sensor | LED ON  |
 | TC_3  | If the object doesn't detects  | No input to the sensor | LED OFF |
 
+**CIRCUIT DIAGRAM**
+
+<img width="272" alt="Automatic staircase light" src="https://user-images.githubusercontent.com/102237877/165036847-abd9d1c9-315a-4179-a105-062691ef0070.png">
+
 
 
 
