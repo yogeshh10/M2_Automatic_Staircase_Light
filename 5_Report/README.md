@@ -1,0 +1,2 @@
+# **AUTOMATIC STAIRCASE LIGHT**
+The automatic staircase lighting system is a lighting control system where the lights are automated according to the presence of people using the staircase.With this project, we will successfully create a system where lighting control will be purely based on human presence and hence eliminating the need for manual switching. This circuit can be used to save power, and it can be used as an emergency backup light.
